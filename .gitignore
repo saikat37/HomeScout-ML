@@ -1,0 +1,24 @@
+# Ignore the PyCharm IDE settings
+.idea/
+
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environments
+venv/
+env/
+*.egg-info/
+
+# Ignore logs and temporary files
+*.log
+*.tmp
+
+# Ignore Jupyter Notebook checkpoints (if used)
+.ipynb_checkpoints/
+
+# Ignore system-specific files
+.DS_Store
+Thumbs.db
