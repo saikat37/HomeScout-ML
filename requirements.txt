@@ -6,3 +6,4 @@ wordcloud
 matplotlib
 scikit-learn
 xgboost
+category_encoders
